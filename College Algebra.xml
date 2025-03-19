@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext>
+    <book xml:id="college-algebra" xmlns="http://pretextbook.org/doc" xml:lang="en">
+        <title>College Algebra</title>
+        <author>
+            <personname>
+                <firstname>Your</firstname>
+                <surname>Name</surname>
+            </personname>
+        </author>
+        <chapter xml:id="chapter-1">
+            <title>Foundations</title>
+            <section xml:id="section-1-1">
+                <title>Real Numbers and Algebraic Expressions</title>
+                <p>This section covers the basic properties of real numbers and how to manipulate algebraic expressions.</p>
+            </section>
+            <section xml:id="section-1-2">
+                <title>Linear Equations and Inequalities</title>
+                <p>Solving linear equations and understanding inequalities.</p>
+            </section>
+        </chapter>
+        <chapter xml:id="chapter-2">
+            <title>Functions and Graphs</title>
+            <section xml:id="section-2-1">
+                <title>Introduction to Functions</title>
+                <p>Definition of functions, domain, and range.</p>
+            </section>
+            <section xml:id="section-2-2">
+                <title>Graphing Functions</title>
+                <p>Understanding how to graph functions and transformations.</p>
+            </section>
+        </chapter>
+    </book>
+</pretext>
